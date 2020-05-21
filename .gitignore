@@ -1,3 +1,4 @@
-/test/node_modules
-/test/top200
+test/node_modules
+test/top200
 top200.tar
+data
